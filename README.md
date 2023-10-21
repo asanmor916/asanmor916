@@ -8,7 +8,7 @@ I'm currently learning DAW 📚
 
 ### How to contact me:
 
-- Gmail: mail: asanmor916@iesalmudeyne.es
++ Gmail: mail: asanmor916@iesalmudeyne.es
 
 
 
