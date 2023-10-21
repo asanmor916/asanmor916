@@ -6,9 +6,6 @@ I'm from Los Palacios y Villafranca (Sevilla) 📍
 
 I'm currently learning DAW 📚
 
-
-
-
 ### How to contact me:
 
 - Gmail: mail: asanmor916@iesalmudeyne.es
