@@ -1,10 +1,12 @@
-# Hi there, I'm Álvaro Sánchez Moreno 👋
+## Hi there, I'm Álvaro Sánchez Moreno 👋
 
-## About me:
+#### About me:
 
 I'm from Los Palacios y Villafranca (Sevilla) 📍
 
 I'm currently learning DAW 📚
+
+
 
 <!--
 **asanmor916/asanmor916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
