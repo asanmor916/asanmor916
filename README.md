@@ -1,6 +1,8 @@
 # Hi there, I'm Álvaro Sánchez Moreno 👋
 
-- prueba
+## About me:
+
+Prueba
 <!--
 **asanmor916/asanmor916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
