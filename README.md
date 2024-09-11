@@ -1,4 +1,4 @@
-## Hi there, I'm Álvaro Sánchez Moreno 👋
+## Hi there, I'm Álvaro Sánchez 👋
 
 ### About me:
 
